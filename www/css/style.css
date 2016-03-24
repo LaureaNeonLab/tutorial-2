@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+.title {
+    color: white;
+}
+.purchased {
+    color: #9E9E9E;
+    text-decoration: line-through;
+}
+
+.icon {
+    color:white;
+}
